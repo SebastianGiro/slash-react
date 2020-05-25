@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/slash-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/slash-react/static/js/main.bf10dff9.chunk.js",
+    "main.js.map": "/slash-react/static/js/main.bf10dff9.chunk.js.map",
+    "runtime-main.js": "/slash-react/static/js/runtime-main.3bb3a062.js",
+    "runtime-main.js.map": "/slash-react/static/js/runtime-main.3bb3a062.js.map",
+    "static/js/2.e442fb58.chunk.js": "/slash-react/static/js/2.e442fb58.chunk.js",
+    "static/js/2.e442fb58.chunk.js.map": "/slash-react/static/js/2.e442fb58.chunk.js.map",
+    "index.html": "/slash-react/index.html",
+    "precache-manifest.c991e4c9b8291ecfca456b198029363a.js": "/slash-react/precache-manifest.c991e4c9b8291ecfca456b198029363a.js",
+    "service-worker.js": "/slash-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/slash-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e442fb58.chunk.js.LICENSE.txt": "/slash-react/static/js/2.e442fb58.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/slash-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bb3a062.js",
+    "static/js/2.e442fb58.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bf10dff9.chunk.js"
+  ]
+}
